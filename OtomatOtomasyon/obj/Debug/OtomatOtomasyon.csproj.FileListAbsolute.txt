@@ -1,0 +1,16 @@
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\bin\Debug\OtomatOtomasyon.exe.config
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\bin\Debug\OtomatOtomasyon.exe
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\bin\Debug\OtomatOtomasyon.pdb
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.csprojAssemblyReference.cache
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.Form1.resources
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.Properties.Resources.resources
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.csproj.GenerateResource.cache
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.csproj.CopyComplete
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.exe
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.pdb
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.Form2.resources
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.Form3.resources
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\obj\Debug\OtomatOtomasyon.Form4.resources
+C:\Users\Habip\source\repos\OtomatOtomasyon\OtomatOtomasyon\bin\Debug\Oracle.ManagedDataAccess.dll
